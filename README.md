@@ -9,7 +9,7 @@ https://www.aots.jp/en/about/
 # Assignments
 | **Assignment**                              | **Status** |
 |---------------------------------------------|------------|
-| File management with GitHub                 | Completed  |
+| [File management with GitHub](https://github.com/Mauroreis100/AIDataScienceCourse/tree/main/1.%20File%20management%20with%20GitHub)                | 🟢 Completed  |
 | Paper folding problem                       |            |
 | Soroshi Shinzaemon problem                  |            |
 | Mt. Fuji paper folding issue                |            |
@@ -43,3 +43,7 @@ https://www.aots.jp/en/about/
 |Recurrent neural network ||
 |LSTM ||
 |Seq2Seq ||
+
+🟢 - Completed
+🟡 - In review
+🔴 - Unsolved

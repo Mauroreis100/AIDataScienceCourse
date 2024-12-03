@@ -2,6 +2,8 @@
 
 This repo is part of a 6 Month Intensive Course about AI Data Engineer provided by DPro and supported by the AOTS which is The Association for Overseas Technical Cooperation and Sustainable Partnerships (AOTS) is an organization for human resources development in developing countries to promote technical cooperation through training, expert dispatch and other programs.
 
+ ![DPro Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiveintocode.jp%2F&psig=AOvVaw0fyoITBqjn4uj_vpiVEgWl&ust=1733333816858000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjis-eRjIoDFQAAAAAdAAAAABAE)
+
 
 https://diveintocode.jp/
 https://www.aots.jp/en/about/

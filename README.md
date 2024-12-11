@@ -12,7 +12,7 @@ https://www.aots.jp/en/about/
 | **Assignment**                              | **Status** |
 |---------------------------------------------|------------|
 | [File management with GitHub](https://github.com/Mauroreis100/AIDataScienceCourse/tree/main/1.%20File%20management%20with%20GitHub)                | 🟢 Completed  |
-| Paper folding problem                       |            |
+| [Paper folding problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/2.%20Folding%20Paper/PaperFolding.ipynb)                       |      🟡      |
 | Soroshi Shinzaemon problem                  |            |
 | Mt. Fuji paper folding issue                |            |
 | Chestnut manju problem                      |            |

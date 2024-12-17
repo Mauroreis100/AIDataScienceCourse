@@ -13,8 +13,8 @@ https://www.aots.jp/en/about/
 |---------------------------------------------|------------|
 | [File management with GitHub](https://github.com/Mauroreis100/AIDataScienceCourse/tree/main/1.%20File%20management%20with%20GitHub)                | 🟢 - Completed  |
 | [Paper folding problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/2.%20Folding%20Paper/PaperFolding.ipynb)                       | 🟡 - In review |
-| Soroshi Shinzaemon problem                  |            |
-| Mt. Fuji paper folding issue                |            |
+| [Soroshi Shinzaemon problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/3.%20Soroshi%20Shinzaemon%20problem/Soroshi%20Shinzaemon%20Problem.ipynb)                  |            |
+| [Mt. Fuji paper folding issue](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/4.%20Mt.%20Fuji%20paper%20folding%20issue/Mt.%20Fuji%20paper%20folding%20issue.ipynb)                |            |
 | Chestnut manju problem                      |            |
 | Wheat and chess board problem               |            |
 | Creating dummy data                         |            |

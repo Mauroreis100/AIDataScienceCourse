@@ -16,7 +16,7 @@ https://www.aots.jp/en/about/
 | [Soroshi Shinzaemon problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/3.%20Soroshi%20Shinzaemon%20problem/Soroshi%20Shinzaemon%20Problem.ipynb)                  |     🟢 - Completed       |
 | [Mt. Fuji paper folding issue](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/4.%20Mt.%20Fuji%20paper%20folding%20issue/Mt.%20Fuji%20paper%20folding%20issue.ipynb)                |      🟢 - Completed       |
 | [Chestnut manju problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/5.%20Chestnut%20manjuu%20problem/Chestnut%20manjuu%20problem.ipynb)                      |  🟡 - In review          |
-| [Wheat and chess board problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/6.%20Wheat%20and%20Chessboard%20Problem%20Series/%20Wheat%20and%20Chessboard%20Problem%20Series.ipynb)               |            |
+| [Wheat and chess board problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/6.%20Wheat%20and%20Chessboard%20Problem%20Series/%20Wheat%20and%20Chessboard%20Problem%20Series.ipynb)               |    🟡 - In review        |
 | Creating dummy data                         |            |
 | Implementation of matrix product            |            |
 | Two-dimensional array and gradient problem  |            |

@@ -18,7 +18,7 @@ https://www.aots.jp/en/about/
 | [Chestnut manju problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/5.%20Chestnut%20manjuu%20problem/Chestnut%20manjuu%20problem.ipynb)                      |  🟢 - Completed          |
 | [Wheat and chess board problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/6.%20Wheat%20and%20Chessboard%20Problem%20Series/%20Wheat%20and%20Chessboard%20Problem%20Series.ipynb)               |    🟢 - Completed        |
 | [Creating dummy data](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/7.%20Creating%20dummy%20data/Creating%20dummy%20data.ipynb)                         |  🟢 - Completed           |
-| Implementation of matrix product            |            |
+| [Implementation of matrix product](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/8.%20Implementation%20of%20matrix%20product%20/Implementation%20of%20matrix%20product.ipynb)            |  🟡 - In review      |
 | Two-dimensional array and gradient problem  |            |
 | Fuji descent issue                          |            |
 | Data analysis of iris                       |            |

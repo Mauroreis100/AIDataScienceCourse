@@ -18,10 +18,10 @@ https://www.aots.jp/en/about/
 | [Chestnut manju problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/5.%20Chestnut%20manjuu%20problem/Chestnut%20manjuu%20problem.ipynb)                      |  🟢 - Completed          |
 | [Wheat and chess board problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/6.%20Wheat%20and%20Chessboard%20Problem%20Series/%20Wheat%20and%20Chessboard%20Problem%20Series.ipynb)               |    🟢 - Completed        |
 | [Creating dummy data](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/7.%20Creating%20dummy%20data/Creating%20dummy%20data.ipynb)                         |  🟢 - Completed           |
-| [Implementation of matrix product](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/8.%20Implementation%20of%20matrix%20product%20/Implementation%20of%20matrix%20product.ipynb)            |  🟡 - In review      |
-| Two-dimensional array and gradient problem  |            |
-| Fuji descent issue                          |            |
-| Data analysis of iris                       |            |
+| [Implementation of matrix product](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/8.%20Implementation%20of%20matrix%20product%20/Implementation%20of%20matrix%20product.ipynb)            |  🟢 - Completed      |
+| [Two-dimensional array and gradient problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/9.%20Two-dimensional%20array%20and%20gradient%20problem/9.%20Two-dimensional%20array%20and%20gradient%20problem.ipynb)  |  🟢 - Completed          |
+| [Fuji descent issue](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/10.%20Fuji%20descent%20issue/Fuji%20descent%20issue.ipynb)                          |  🟢 - Completed          |
+| [Data analysis of iris](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/11.%20Data%20analysis%20of%20iris/Data%20analysis%20of%20iris.ipynb)                       |  🟡 - In review           |
 | Analysis of housing information             |            |
 | Credit information analysis                 |            |
 | Binary classification of iris               |            |

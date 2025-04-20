@@ -1,3 +1,6 @@
+# Tenho que levar os dependencies para uma pasta de requirements
 aienv/
+# labelImg e label-studio
+Annotatioon/annotation
 13. Credit analysis/application_train.csv
 

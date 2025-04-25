@@ -21,9 +21,9 @@ https://www.aots.jp/en/about/
 | [Implementation of matrix product](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/8.%20Implementation%20of%20matrix%20product%20/Implementation%20of%20matrix%20product.ipynb)            |  🟢 - Completed      |
 | [Two-dimensional array and gradient problem](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/9.%20Two-dimensional%20array%20and%20gradient%20problem/9.%20Two-dimensional%20array%20and%20gradient%20problem.ipynb)  |  🟢 - Completed          |
 | [Fuji descent issue](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/10.%20Fuji%20descent%20issue/Fuji%20descent%20issue.ipynb)                          |  🟢 - Completed          |
-| [Data analysis of iris](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/11.%20Data%20analysis%20of%20iris/Data%20analysis%20of%20iris.ipynb)                       |  🟡 - In review           |
-| Analysis of housing information             |            |
-| Credit information analysis                 |            |
+| [Data analysis of iris](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/11.%20Data%20analysis%20of%20iris/Data%20analysis%20of%20iris.ipynb)                       |  🟢 - Completed            |
+| [Analysis of housing information](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/12.%20Housing%20information%20analysis/Housing%20Information%20Analysis.ipynb)             |   🟢 - Completed          |
+| [Credit information analysis](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/13.%20Credit%20analysis/Credit%20Info%20Analysis%20EDA%20Method.ipynb)                 |   🟢 - Completed          |
 | Binary classification of iris               |            |
 | Housing Price Forecasts                     |            |
 | Credit information learning                 |            |

@@ -24,10 +24,10 @@ https://www.aots.jp/en/about/
 | [Data analysis of iris](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/11.%20Data%20analysis%20of%20iris/Data%20analysis%20of%20iris.ipynb)                       |  🟢 - Completed            |
 | [Analysis of housing information](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/12.%20Housing%20information%20analysis/Housing%20Information%20Analysis.ipynb)             |   🟢 - Completed          |
 | [Credit information analysis](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/13.%20Credit%20analysis/Credit%20Info%20Analysis%20EDA%20Method.ipynb)                 |   🟢 - Completed          |
-| Binary classification of iris               |            |
-| Housing Price Forecasts                     |            |
-| Credit information learning                 |            |
-| Linear regression                           |            |
+| [Binary classification of iris](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/14.%20Binary%20Classification%20Dataset/Binary%20classification%20of%20Iris.ipynb)               | 🟢 - Completed           |
+| [Housing Price Forecasts](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/12.%20Housing%20information%20analysis/Housing%20Information%20Analysis.ipynb)                     |  🟢 - Completed          |
+| [Credit information learning](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/16.%20Credit%20information%20learning/Credit%20information%20learning.ipynb)                 | 🟢 - Completed           |
+| [Linear regression](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/17.%20Linear%20regression/17.%20Linear%20regression.ipynb)                           |            |
 | Logistic regression                         |            |
 | SVM                                         |            |
 |Decision tree||

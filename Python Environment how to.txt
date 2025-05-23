@@ -1,0 +1,19 @@
+New python
+python3 -m venv cowsay
+source cowsay/bin/activate
+pip3 install cowsay
+
+pip freeze > .env
+pip freeze > requirements.txt - recommended
+
+pip install -r requirements.txt
+touch .gitignore
+
+venv/
+env/
+
+source aienv/bin/activate
+jupyter notebook
+
+
+

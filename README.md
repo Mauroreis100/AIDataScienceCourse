@@ -27,8 +27,8 @@ https://www.aots.jp/en/about/
 | [Binary classification of iris](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/14.%20Binary%20Classification%20Dataset/Binary%20classification%20of%20Iris.ipynb)               | 🟢 - Completed           |
 | [Housing Price Forecasts](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/12.%20Housing%20information%20analysis/Housing%20Information%20Analysis.ipynb)                     |  🟢 - Completed          |
 | [Credit information learning](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/16.%20Credit%20information%20learning/Credit%20information%20learning.ipynb)                 | 🟢 - Completed           |
-| [Linear regression](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/17.%20Linear%20regression/17.%20Linear%20regression.ipynb)                           |            |
-| Logistic regression                         |            |
+| [Linear regression](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/17.%20Linear%20regression/17.%20Linear%20regression.ipynb)                           |    🟢 - Completed         |
+| [Logistic regression](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/18.%20Logistic%20regression/Logistic%20Regression.ipynb)                         |    🟢 - Completed         |
 | SVM                                         |            |
 |Decision tree||
 |Clustering||

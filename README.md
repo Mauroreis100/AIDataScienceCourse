@@ -29,22 +29,22 @@ https://www.aots.jp/en/about/
 | [Credit information learning](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/16.%20Credit%20information%20learning/Credit%20information%20learning.ipynb)                 | 🟢 - Completed           |
 | [Linear regression](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/17.%20Linear%20regression/17.%20Linear%20regression.ipynb)                           |    🟢 - Completed         |
 | [Logistic regression](https://github.com/Mauroreis100/AIDataScienceCourse/blob/main/18.%20Logistic%20regression/Logistic%20Regression.ipynb)                         |    🟢 - Completed         |
-| SVM                                         |            |
-|Decision tree||
-|Clustering||
-|Ensemble learning||
-|neural network||
-|SimpleConv1d||
-|SimpleConv2d||
-|TensorFlow||
-|Keras ||
-|Faster R-CNN and YOLO v3 ||
-|U-net||
+| SVM                                         |   🟢 - Completed         |
+|Decision tree|🟢 - Completed|
+|Clustering|🟢 - Completed|
+|Ensemble learning|🟢 - Completed|
+|neural network|🟢 - Completed|
+|SimpleConv1d|🟢 - Completed|
+|SimpleConv2d|🟢 - Completed|
+|TensorFlow|🟡 - In review|
+|Keras |🟡 - In review|
+|Faster R-CNN and YOLO v3 |🟡 - In review|
+|U-net|🔴 - Unsolved|
 |ResNet and VGG ||
-|Natural language processing||
-|Recurrent neural network ||
-|LSTM ||
-|Seq2Seq ||
+|Natural language processing|🟡 - In review|
+|Recurrent neural network |🔴 - Unsolved|
+|LSTM |🔴 - Unsolved|
+|Seq2Seq |🟡 - In review|
 
 🟢 - Completed
 🟡 - In review

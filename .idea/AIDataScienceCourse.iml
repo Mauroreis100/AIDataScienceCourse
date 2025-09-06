@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/Annotatioon/annotation/lib64/python3.12/site-packages/label_studio" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/Annotatioon/annotation/lib64/python3.12/site-packages/label_studio/manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Annotatioon/annotation/lib64/python3.12/site-packages/label_studio" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/aienv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12 (AIDataScienceCourse)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
